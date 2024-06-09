@@ -34,4 +34,7 @@
     <li>A beszállítások jelenleg úgy működnek, hogy egyszerre csak egyféle terméket enged rögzíteni, így egy beszállítás során (ugyanazzal a fuvarszámmal) annyiszor kell ismételni, ahány termék van. Ezt igyekszem majd javítani.</li>
 </ul>
 
-<img src"">
+<img src="https://github.com/krisztiankarolyi/Sapi_WareHouse/assets/145534392/5ca0177c-37eb-43db-a34c-85327d0f1915">
+<img src="https://github.com/krisztiankarolyi/Sapi_WareHouse/assets/145534392/f68008e5-f2cb-4254-a3bf-3364100b124f"> 
+
+
