@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Fomenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaForms\Figyelmeztetesek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaForms\ListBeszallitasok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaForms\listDolgozok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaForms\ListHiany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaForms\ListSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaForms\listTermek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaForms\Postalada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewForms\newBeszallitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewForms\newSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewForms\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewForms\ujDolgozo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewForms\ujHiany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewForms\ujLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewForms\UjTermek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Psw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
